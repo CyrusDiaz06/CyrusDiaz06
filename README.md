@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cyrus Diaz
-- 👀 I’m interested in ... Mobile Application Development and Software development
-- 🌱 I’m currently learning ... Spring, Kotlin and C#
-- 💞️ I’m looking to collaborate on ... projects of all kinds
+- 👀 I’m interested in ... Database Administration and Data Engineering
+- 🌱 I’m currently learning ... Javascript, React, TypeScript
+- 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ... linkedin.com/cyrusdiaz
 
 <!---
