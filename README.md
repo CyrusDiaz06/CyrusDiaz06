@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cyrus Diaz
-- 👀 I’m interested in ... Database Administration and Data Engineering
-- 🌱 I’m currently learning ... Javascript, React, TypeScript
-- 💞️ I’m looking to collaborate on ... open source projects
+- 👀 I’m interested in ... Computer Science as a whole
+- 🌱 I’m currently learning ... Javascript, C#
+- 💞️ I’m looking to collaborate on ... creating websites and scripts for businesses
 - 📫 How to reach me ... linkedin.com/cyrusdiaz
 
 <!---
